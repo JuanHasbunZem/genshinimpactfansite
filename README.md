@@ -7,4 +7,5 @@
   * +1 hour - Explored Further Exploration: Data Visualization. (Planning to use chart.js to display Character Stats, maybe a Polar Area or Radar graph).
   * +1 hour - Explored Further Exploration: Animations with React. (Planning to display short animations displaying Character Attack/Ability animations - stretch goal).
 * 9/22/21 -
-  * 
+* 
+ 
