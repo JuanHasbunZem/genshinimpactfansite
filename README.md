@@ -23,7 +23,9 @@
 ## Description
 Originally this project was meant to be created in React as a database site to add characters and display them. Due to errors and not as familiar with React as expected, the project was redone in C#/java as a "proof of concept" and blueprint for future redesign once Im more comfortable with React. 
 
-As such, this project is mostly a database with viewable roster for Genshin Impact Characters, with some expandability for the future.
+As such, this project is mostly a database with viewable roster for Genshin Impact Characters, with some expandability for the future. Some features such as Equipment and Bestiary are present but not functional as they are future MVPs, and basically just the ground work at this point.
+
+Currently, the Characters database is a viewable page by anyone and is missing full functions such as Update and Delete. The idea is that for demonstration purposes, there is no point in creating additional code for Authorization at this time. When the site is transfered over to React there will be full CRUD processes, and it sill be hidden behind an Admin authorization - with no current plans to make accounts a feature of this site (this may or may not change in the future).
 
 ## Known Bugs
 

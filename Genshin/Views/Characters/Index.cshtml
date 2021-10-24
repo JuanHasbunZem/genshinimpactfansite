@@ -1,0 +1,17 @@
+@using Genshin.Models;
+
+<h1>Characters</h1>
+
+@if (@Model.Count == 0)
+{
+  <h2>You do not currently have any Characters listed sir. Please add some soon.</h2>
+}
+
+<ul>
+@foreach (Character character in Model)
+{
+  <li><a href='/characters/@character.Id'>@character.Name</a></li>
+}
+</ul>
+
+<p><a href='/'>Back to Home Page.</a></p>
