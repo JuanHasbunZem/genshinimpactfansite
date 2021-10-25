@@ -29,7 +29,8 @@ Currently, the Characters database is a viewable page by anyone and is missing f
 
 ## Known Bugs
 
-* No currently known issues.
+* Currently unable to make a database migration to test out site.
+* No CSS styling yet, no point til basic code functions.
 
 ## License
 
